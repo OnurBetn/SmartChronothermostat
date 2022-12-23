@@ -11,6 +11,6 @@ Implementation of an innovative chronothermostat prototype.
 * Web interface for setup and statistics from remote
 * Remote control using smartphone
 * Zone management 
-• each zone has its own sensors and actuators
-• each zone has its own temperature profile
+** each zone has its own sensors and actuators
+** each zone has its own temperature profile
 * Voice control through Alexa
